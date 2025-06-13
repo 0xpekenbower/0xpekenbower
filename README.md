@@ -1,97 +1,93 @@
-# 👋 Hello, I'm Abdellah Elmrabet (0xpekenbower)
+# 👋 Hello, I'm Abdellah Elmrabet (aka 0xpekenbower)
 
-A passionate IT professional with a strong background in low-level programming, using C and C++. I don't have any specific field of interest; I'm always eager to learn new things and explore new technologies.
+I’m a DevOps engineer and systems enthusiast with a strong foundation in low-level programming (C/C++) and a deep interest in automation, observability, and infrastructure.
 
----
-## 📚 **What I'm Studying**
-
-- I’m currently a student at 1337 School (one of the schools in the 42 network).
-- I'm actually at the end of the common core, so there are 4 projects (Inception, CPP Pool, FT_IRC, and FT_Transcendence).
-- This is about my formal education, but I'm always learning new things and exploring new technologies.
-
-### **[👀 Common Core Progress](https://www.42.fr/)**
-
-[![aelmrabe's 42 stats](https://badge.mediaplus.ma/darkblue/aelmrabe)](https://github.com/oakoudad/badge42)
+Currently a student at **1337 School** (part of the 42 Network), I'm completing the **Common Core curriculum**, where I built solid knowledge in system programming, networking, containerization, and software architecture.
 
 ---
 
-## 🧰 **Technologies & Tools**
+## 🔧 Tech Stack & Tools
 
-Here are some of the technologies and tools I’ve worked with:
+- **💻 Languages:**  
+C, C++ (98/20), JavaScript (Node.js, React), Shell Scripting
 
-- **💻 Programming Languages**: C, C++ (98, 20), JavaScript, Shell Scripting
-- **🖥️ OS**: Linux, Windows, MacOS
-- **🔧 Version Control**: Git, GitHub, GitLab
-- **📚 C++ Libraries**: STL, Boost, OCR, OpenCV, ImGui
-- **🐞 C/C++ Debugging**: Valgrind, GDB, LLDB
-- **🎨 Graphics Programming**: GLFW, OpenGL, DirectX
-- **📦 Virtualization**: Docker, VirtualBox
-- **🌐 Web Development**: HTML, CSS, JavaScript, React, Node.js
-- **⚙️ DevOps**: Grafana, Prometheus, GitHub Actions, Jenkins
-- **🗄️ Database**: MySQL (C++, Node.js), MongoDB (C++, Node.js)
-- **📱 Android Tools**: ADB, AutoUI, Termux
-- **🛠️ IDE**: Visual Studio Code
-- **🔍 Other Tools**: Postman, Wireshark, Figma, Adobe XD, Markdown, LaTeX
+- **⚙️ DevOps & Automation:**  
+Docker, Docker Compose, GitHub Actions, Jenkins, Ansible
 
----
+- **🐞 Monitoring & Observability:**  
+Grafana, Prometheus, cAdvisor, Node Exporter, Vector, ELK Stack (Elasticsearch, Logstash, Kibana)
 
-## 🚀 **My Projects**
+- **🗄️ Databases:**  
+PostgreSQL, MySQL, MongoDB
 
-Here are some of the projects I’ve worked on:
+- **🖥️ OS & Tools:**  
+Linux (Debian-based), macOS, ADB, Termux, VirtualBox, Git, Wireshark, Postman, VS Code
 
-### **[School Projects](#)**
-
-1. [**Born2BeRoot**](): Introduction to virtualization and system administration using VirtualBox and Debian.
-2. [**Inception**](): More advanced system administration topics, and introduction to Docker and Docker-Compose.
-3. [**CPP Pool**](): A series of C++ projects to learn the language and its features (From Day 04 to Day 09).
-4. [**FT_IRC**](): A simple IRC server and client implementation using C++ std=98.
-5. [**FT_Transcendence**](): A web-based multiplayer game using microservices architecture and a variety of technologies.
-
-### **[Personal Projects](#)**
-
-1. **🖥️ ProSession**: A tool to automate installations and configurations of my session (works only for Linux).
-2. **👷‍♂️ VM-Controller**: A tool to download, set up, and configure virtual machines inside my session (VirtualBox, Debian).
-3. **📊 whiteoutsurvival_db**: A tool to scrape data of a game `whiteoutsurvival` and export as `json` or save it in `MongoDB`, `MySQL`, etc.
-4. **🔁 myProxy**: A tool that will work as an intermediary between my hosted server and my other devices.
-5. **🤖 whiteoutsurvival_bot**: Advanced bot for the whiteoutsurvival strategy game.
+- **🌐 Web & UI:**  
+HTML, CSS, React, OpenAPI/Swagger, Figma, Adobe XD
 
 ---
 
-## ✍️ **Blog & Documentation**
+## 📘 What I'm Learning Now
 
-I believe in sharing knowledge and experiences. You can find my writings and documentation here:
-
-- **📖 [My Blog]()** – Coming soon!
-- **📄 [Project Documentation]()** – Coming soon!
-
-All my documentation is targeted at beginners, so if you are not, maybe you will not have fun reading it. I explain everything in detail, but the topics are interesting, and you can learn new things. I'm not a professional writer, and my English is not perfect, but I'm trying to do my best.
+- **Cloud-Native DevOps:** Container orchestration, logging pipelines, monitoring with Prometheus + Grafana, alerting.
+- **C++ Mastery:** Deep diving into STL, multithreading, and low-level memory handling.
+- **CI/CD Pipelines:** Automating build-test-deploy for microservices using GitHub Actions and Jenkins.
+- **System Design & Optimization:** Learning patterns and techniques to design efficient backend systems.
 
 ---
 
-## 🌱 **What I'm Learning**
+## 🎓 Current 42 Projects
 
-I’m always eager to learn new things. Currently, I’m focusing on:
+I’m at the final stage of the Common Core with these capstone projects:
 
-- **Algorithms and Optimization**: Learning new methodologies and optimization algorithms to make life easier.
-- **C++**: Mastering the language and its secrets.
-- **Automate Tools**: Learning new tools and automating my daily tasks.
-
----
-
-## 📫 **Let's Connect**
-
-If you have any questions, opportunities, or collaborations, feel free to reach out to me:
-
-- **🐙 GitHub**: [0xpekenbower](https://github.com/0xpekenbower)
-- **📧 Email**: [abdellahelmrabet@hotmail.com](mailto:abdellahelmrabet@hotmail.com)
-- **🔗 LinkedIn**: [Abdellah Elmrabet](https://www.linkedin.com/in/pekenbower/)
-
-*Note: I’m searching for an internship or a job where I can learn and improve my skills in the field of software development (C++), system administration, and automation. There are a lot of things about me that I didn't mention here, so if you are interested to know more about me, feel free to ask me.*
+- 🐧 **Inception:** Docker-based infrastructure deployment.
+- 🧠 **CPP Modules (04–09):** In-depth C++ and OOP concepts.
+- 🌐 **FT_IRC:** IRC server implementation using C++98 and Unix sockets.
+- 🕹️ **FT_Transcendence:** Multiplayer game using a microservices architecture (Docker, PostgreSQL, Redis, WebSocket, etc.).
 
 ---
 
-## 🎉 **Fun Fact**
+## 🛠️ Personal Projects
 
-When I’m not coding, I love spending time with my family, reading books, and world news.
+| Project | Description |
+|--------|-------------|
+| 🖥️ **ProSession** | Automates environment setup on Linux machines (Dev tools, aliases, configs). |
+| 📦 **VM-Controller** | CLI tool to set up VirtualBox machines with Debian. |
+| 📊 **whiteoutsurvival_db** | Scrapes game data and exports to MongoDB/MySQL/JSON. |
+| 🤖 **whiteoutsurvival_bot** | Advanced strategy bot for Whiteout Survival. |
+| 🔁 **myProxy** | Internal proxy tool to route traffic between personal services. |
 
 ---
+
+## 📘 Blog & Documentation
+
+I enjoy writing beginner-friendly documentation to demystify complex tech.  
+- 📖 **[Blog – Coming Soon](#)**
+- 📄 **[Project Docs – Coming Soon](#)**
+
+Topics I focus on:
+- Docker & Compose basics
+- Log pipelines with Vector & ELK
+- C++ memory and performance
+- Infra as Code with Bash/Node.js
+
+---
+
+## 🤝 Let's Connect
+
+I’m actively looking for **internship opportunities** or **DevOps roles** where I can contribute, learn, and grow.
+
+- 🐙 [GitHub](https://github.com/0xpekenbower)
+- 💼 [LinkedIn](https://linkedin.com/in/pekenbower)
+- 📧 [abdellahelmrabet@hotmail.com](mailto:abdellahelmrabet@hotmail.com)
+
+---
+
+## 🧠 Fun Fact
+
+When I’m not diving into logs or debugging configs, I enjoy world news, learning languages, and spending time with my family.
+
+---
+
+*Thanks for stopping by — feel free to reach out if you want to collaborate, share ideas, or just talk tech!*
